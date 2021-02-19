@@ -1,0 +1,81 @@
+body {
+    padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    color: white;
+}
+
+.deliver {
+    width: 35%;
+    padding: 5px 20px;
+    background: none;
+    color: white;
+    border-color: white;
+}
+
+.card h1 {
+    font-variant-caps: all-petite-caps;
+}
+
+.top-header-sect {
+    background-image: url(../images/desktop/image-hero.jpg);
+    padding: 40px
+}
+
+.nav-item a {
+    color: white;
+}
+
+.leader-card {
+    width: 45%;
+    position: absolute;
+    top: 88%;
+    height: 315px;
+    left: 50%;
+    padding: 60px;
+    border: none;
+    border-radius: 0px;
+    height: 380px;
+}
+
+.img-leader {
+    position: relative;
+}
+
+.leader {
+    margin-top: 40px;
+}
+
+.leader-card h1 {
+    letter-spacing: 2px;
+    font-variant-caps: all-petite-caps;
+    font-size: 50px;
+}
+
+.creations-section {
+    margin-top: 40px;
+}
+
+
+
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;font-size: 40px;
+    letter-spacing: 2px;
+    font-variant-caps: all-petite-caps;
+}
+
+.containers {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.image-text-bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
